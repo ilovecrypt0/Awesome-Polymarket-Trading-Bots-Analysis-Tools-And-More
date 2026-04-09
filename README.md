@@ -4,6 +4,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+⭐ **If you find this directory helpful, please give it a Star! This list is updated frequently with the newest tools and market analytics.** ⭐
+
 This list is generated directly from our verified database, featuring comprehensive insights, user ratings, and detailed summaries of the products shaping the future of information markets.
 
 ---
