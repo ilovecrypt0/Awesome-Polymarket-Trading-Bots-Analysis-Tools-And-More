@@ -629,6 +629,12 @@ This list is generated directly from our verified database, featuring comprehens
 
 ---
 
+### [PolyMind](https://polyminds.netlify.app/) | ★★★★☆ **4.5/5** (New)
+
+> PolyMind is a real-time alert platform that monitors 200+ Polymarket prediction markets every 15 seconds and fires signals across 12 types: whale bets, volume spikes, price reversals, coordinated wallets, late money, and more. Powered by multi-AI analysis (Groq, Claude, Gemini). Free tier available.
+
+---
+
 ## Analytics
 <a name="analytics"></a>
 
