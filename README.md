@@ -134,15 +134,9 @@ This list is generated directly from our verified database, featuring comprehens
 
 ---
 
-### [Ares Pro Bot](https://ares.pro/invite/user-f140abc0e8714ea8) [ℹ️](https://polymart.app/ares-pro)
+### [Polyum](https://polyum.fun/) [ℹ️](https://polymart.app/polyum)
 
-> Ares Pro is a Telegram-based copy trading bot and web terminal that connects Polymarket and Solana meme coin trading in one workspace, giving traders automated wallet mirroring, r…
-
----
-
-### [YesNo.pm Polymarket and Kalshi Analytics Bot for Telegram](https://yesno.pm/) [ℹ️](https://polymart.app/yesno-pm)
-
-> yesno.pm is a Polymarket and Kalshi analytics bot for Telegram, Discord, and X that embeds live market data, tracks prediction calls, and scores wallets for copy trading risk dire…
+> Polyum is a noncustodial Polymarket copytrading platform that lets users mirror top trader positions in real time, with live analytics across winrate, profit and loss, and average…
 
 ---
 
@@ -624,24 +618,6 @@ This list is generated directly from our verified database, featuring comprehens
 
 ---
 
-### [PolyRewards](https://polyrewards.fun/) [ℹ️](https://polymart.app/polyrewards)
-
-> Track Polymarket liquidity provider rewards with PolyRewards, a community-built dashboard that pulls public on-chain data to rank wallets by cumulative earnings, show historical r…
-
----
-
-### [PolymarketScan](https://polymarketscan.org/) [ℹ️](https://polymart.app/polymarketscan)
-
-> PolymarketScan.org is a free on-chain data explorer for Polymarket that tracks whale trades, live market activity, wallet performance, and leaderboards across thousands of Polygon…
-
----
-
-### [Simmer Markets](https://www.simmer.markets/) [ℹ️](https://polymart.app/simmer-markets)
-
-> Simmer Markets lets AI agents register, trade, and compete on Polymarket and Kalshi through a unified API, with live leaderboards, remixable trading skills, and self-custody walle…
-
----
-
 ### [PolyRouter](https://polyrouter.io/) | ★★★★☆ **3.8/5** (42 ratings) [ℹ️](https://polyzone.app/polyrouter/)
 
 > PolyRouter is an API aggregator that provides a single interface for developers to collect prediction market data from Polymarket, Kalshi, and Manifold.
@@ -694,9 +670,39 @@ This list is generated directly from our verified database, featuring comprehens
 
 ---
 
-### [Polyum](https://polyum.fun/) [ℹ️](https://polymart.app/polyum)
+### [Future News](https://future.news/PPVHNKLE) [ℹ️](https://polymart.app/future-news)
 
-> Polyum is a noncustodial Polymarket copytrading platform that lets users mirror top trader positions in real time, with live analytics across winrate, profit and loss, and average…
+> Future News (future.news), built by the gmgn.ai team, is a prediction market platform where crypto traders and news followers buy and sell yes/no shares on real-world events spann…
+
+---
+
+### [Ares Pro Bot](https://ares.pro/invite/user-f140abc0e8714ea8) [ℹ️](https://polymart.app/ares-pro)
+
+> Ares Pro is a Telegram-based copy trading bot and web terminal that connects Polymarket and Solana meme coin trading in one workspace, giving traders automated wallet mirroring, r…
+
+---
+
+### [PolyFundr Prop Trading Platform and Funded Accounts for Polymarket](https://polyfundr.com/) [ℹ️](https://polymart.app/polyfundr)
+
+> PolyFundr is a prop trading platform for Polymarket that funds skilled prediction traders up to $200,000 after a single challenge phase, with a 90% profit split and payouts proces…
+
+---
+
+### [PolyRewards](https://polyrewards.fun/) [ℹ️](https://polymart.app/polyrewards)
+
+> Track Polymarket liquidity provider rewards with PolyRewards, a community-built dashboard that pulls public on-chain data to rank wallets by cumulative earnings, show historical r…
+
+---
+
+### [YesNo.pm Polymarket and Kalshi Analytics Bot for Telegram](https://yesno.pm/) [ℹ️](https://polymart.app/yesno-pm)
+
+> yesno.pm is a Polymarket and Kalshi analytics bot for Telegram, Discord, and X that embeds live market data, tracks prediction calls, and scores wallets for copy trading risk dire…
+
+---
+
+### [Simmer Markets](https://www.simmer.markets/) [ℹ️](https://polymart.app/simmer-markets)
+
+> Simmer Markets lets AI agents register, trade, and compete on Polymarket and Kalshi through a unified API, with live leaderboards, remixable trading skills, and self-custody walle…
 
 ---
 
@@ -1117,12 +1123,6 @@ This list is generated directly from our verified database, featuring comprehens
 
 ---
 
-### [Future News](https://future.news/PPVHNKLE) [ℹ️](https://polymart.app/future-news)
-
-> Future News (future.news), built by the gmgn.ai team, is a prediction market platform where crypto traders and news followers buy and sell yes/no shares on real-world events spann…
-
----
-
 ### [Polyzone](https://polyzone.app) | ★★★★☆ **4.1/5** (52 ratings) [ℹ️](https://polyzone.app/polyzone/)
 
 > The premier curated collection of Polymarket analytics, trading bots, and information trackers.
@@ -1163,6 +1163,12 @@ This list is generated directly from our verified database, featuring comprehens
 <a name="other"></a>
 
 *A collection of useful Polymarket tools and resources that do not fit neatly into one category. Useful utilities, experiments, and community-built projects worth exploring.*
+
+### [PolymarketScan](https://polymarketscan.org/) [ℹ️](https://polymart.app/polymarketscan)
+
+> PolymarketScan.org is a free on-chain data explorer for Polymarket that tracks whale trades, live market activity, wallet performance, and leaderboards across thousands of Polygon…
+
+---
 
 ### [Polymarket Cli](https://github.com/Polymarket/polymarket-cli) | ★★★★☆ **4.1/5** (12 ratings) [ℹ️](https://polymart.app/polymarket-cli)
 
@@ -1237,12 +1243,6 @@ This list is generated directly from our verified database, featuring comprehens
 <a name="satire-fun"></a>
 
 *Not everything has to be serious. Explore fun, satirical, and meme-worthy tools inspired by Polymarket and prediction markets. Because sometimes trading should make you laugh too.*
-
-### [PolyFundr Prop Trading Platform and Funded Accounts for Polymarket](https://polyfundr.com/) [ℹ️](https://polymart.app/polyfundr)
-
-> PolyFundr is a prop trading platform for Polymarket that funds skilled prediction traders up to $200,000 after a single challenge phase, with a 90% profit split and payouts proces…
-
----
 
 ### [PolyFakeIt](https://www.polyfakeit.com/) | ★★★★★ **4.6/5** (91 ratings) [ℹ️](https://polyzone.app/polyfakeit/)
 
