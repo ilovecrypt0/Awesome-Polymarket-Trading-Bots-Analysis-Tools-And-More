@@ -128,6 +128,18 @@ This list is generated directly from our verified database, featuring comprehens
 
 ---
 
+### [EVPlus.ai AI Trading Terminal for Polymarket and Hyperliquid](https://app.evplus.ai/) [ℹ️](https://polymart.app/evplus)
+
+> EVPlus.ai is an AI-powered crypto trading terminal that combines automated execution, order flow analysis, whale tracking, and Polymarket bot strategies for experienced traders on…
+
+---
+
+### [FrenFlow](https://www.frenflow.com) [ℹ️](https://polymart.app/frenflow)
+
+> FrenFlow is a social trading platform for Polymarket and Kalshi that combines copy trading, verified position sharing, and sub-second execution in one self-custody account with a…
+
+---
+
 ### [PolyTech Telegram Bot for Polymarket Trading and Copy Trading](https://polytechbot.com/) [ℹ️](https://polymart.app/polytech)
 
 > PolyTech is a Telegram bot for Polymarket that lets you place orders, copy top traders, and track your portfolio without leaving the app.
@@ -670,6 +682,18 @@ This list is generated directly from our verified database, featuring comprehens
 
 ---
 
+### [Crisp Trade](https://app.crisp.trade/waitlist) [ℹ️](https://polymart.app/crisp-trade)
+
+> Crisp Trade is a prediction market terminal for Polymarket that tracks smart money, screens markets algorithmically, and executes trades at block zero speed so active traders and…
+
+---
+
+### [Arkham Intel Prediction Markets Analytics for Polymarket Traders](https://arkm.com/) [ℹ️](https://polymart.app/arkham-prediction-markets)
+
+> Arkham Intel now brings prediction markets analytics to its onchain intelligence platform, letting traders track top performers, live positions, and wallet-linked activity across…
+
+---
+
 ### [Future News](https://future.news/PPVHNKLE) [ℹ️](https://polymart.app/future-news)
 
 > Future News (future.news), built by the gmgn.ai team, is a prediction market platform where crypto traders and news followers buy and sell yes/no shares on real-world events spann…
@@ -1163,6 +1187,18 @@ This list is generated directly from our verified database, featuring comprehens
 <a name="other"></a>
 
 *A collection of useful Polymarket tools and resources that do not fit neatly into one category. Useful utilities, experiments, and community-built projects worth exploring.*
+
+### [Otomato DeFi Alert Tool](https://otomato.xyz) [ℹ️](https://polymart.app/otomato)
+
+> Otomato monitors onchain positions across Ethereum, Arbitrum, Base, and other chains to send targeted alerts for liquidation risks, yield shifts, and protocol events, with no wall…
+
+---
+
+### [PM.Wiki Prediction Markets Directory, Tools and Research Hub](https://pm.wiki/) [ℹ️](https://polymart.app/pm-wiki)
+
+> pm.wiki is a community-run directory that lists and compares prediction market platforms, tools, and infrastructure, with reviews, guides, and structured data for traders, develop…
+
+---
 
 ### [PolymarketScan](https://polymarketscan.org/) [ℹ️](https://polymart.app/polymarketscan)
 
