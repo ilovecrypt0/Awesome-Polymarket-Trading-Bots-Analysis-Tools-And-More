@@ -1,418 +1,5 @@
-# 🌟 Awesome Polymarket Trading Bots, Analysis Tools And More
-
-> **A beautifully curated, categorized list of the best tools, bots, and resources for the Polymarket prediction market ecosystem.**
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-⭐ **If you find this directory helpful, please give it a Star! This list is updated frequently with the newest tools and market analytics.** ⭐
-
-This list is generated directly from our verified database, featuring comprehensive insights, user ratings, and detailed summaries of the products shaping the future of information markets.
-
----
-
-## 📑 Table of Contents
-
-- [Trading Bots & Terminals](#trading-bots-and-terminals)
-- [AI Trading](#ai-trading)
-- [API & Data](#api-data)
-- [Alerts & Notifications](#alerts-notifications)
-- [Analytics](#analytics)
-- [Arbitrage & Edge](#arbitrage-edge)
-- [DeFi & On-Chain](#defi-on-chain)
-- [News & Media](#news-media)
-- [Other](#other)
-- [Prediction Market](#prediction-market)
-- [Satire / Fun](#satire-fun)
-- [Whale & Wallet Tracking](#whale-wallet-tracking)
-
----
-
-## Trading Bots & Terminals
-<a name="trading-bots-and-terminals"></a>
-
-*Automate your prediction market trading with the best bots for Polymarket and Kalshi. Copy-trade top traders, run strategies 24/7, and execute orders faster than any human can.*
-
-### [PolyCop](https://polycop.ai) | ★★★★★ **4.8/5** (154 ratings) [ℹ️](https://polymart.app/polycop)
-
-> PolyCop is a non-custodial Telegram bot that executes Polymarket trades in under two seconds and automates copy trading for specific wallet addresses.
-
----
-
-### [PolyGun](https://polygun.xyz/) | ★★★★☆ **4.2/5** (59 ratings) [ℹ️](https://polymart.app/polygun)
-
-> PolyGun is a Telegram bot that executes Polymarket trades on the Polygon blockchain through a chat interface and includes a sniper feature for fast market entry.
-
----
-
-### [kreo](https://kreopoly.app/) | ★★★★☆ **4.3/5** (141 ratings) [ℹ️](https://polymart.app/kreo)
-
-> Kreo is a non-custodial Telegram bot that monitors Polymarket whale wallets and executes automatic copy trades through a web dashboard.
-
----
-
-### [Ratio](https://ratio.you/r/TradeNow) | ★★★★☆ **4.1/5** (16 ratings) [ℹ️](https://polymart.app/ratio-you)
-
-> Ratio is a mobile social prediction market app for Android and iOS that uses Polymarket liquidity to let users trade on event outcomes and share positions in a community feed.
-
----
-
-### [wagerup](https://wagerup.com/) | ★★★☆☆ **3.0/5** (1 ratings) [ℹ️](https://polymart.app/wagerup)
-
-> WagerUp is a sports prediction market platform that pulls live odds from Kalshi, Polymarket, and other exchanges into one interface, routes each trade to the best price, and charges a flat 1.9% fee only on winning bets.
-
----
-
-### [Merlin Trade](https://merlin.trade/) | ★★★★☆ **4.0/5** (1 ratings) [ℹ️](https://polymart.app/merlin-trade)
-
-> Merlin Trade is a marketplace and Telegram bot that automatically copies the Polymarket prediction trades of experienced users for retail investors.
-
----
-
-### [Tread Fi](https://www.tread.fi/) | ★★★★☆ **4.0/5** (1 ratings) [ℹ️](https://polyzone.app/treadfi/)
-
-> Tread Fi is an algorithmic trading terminal that connects multiple exchange accounts to a central interface for low latency crypto execution and portfolio management.
-
----
-
-### [Prism](https://prismfi.cc/predict) | ★★★★☆ **4.0/5** (1 ratings) [ℹ️](https://polyzone.app/prism/)
-
-> Prism is a decentralized finance application on the MegaETH network that provides tools for token swaps, cross-chain bridges, and liquidity provision through an automated market maker.
-
----
-
-### [Legend Trade](https://www.legend.trade/) | ★★★★☆ **4.2/5** (4 ratings) [ℹ️](https://polyzone.app/legendtrade/)
-
-> Legend Trade is a social trading platform where users compete in player versus player matches and use ELO rankings to track their financial performance.
-
----
-
-### [PolyBot](https://tradepolybot.app/) | ★★★★☆ **3.7/5** (41 ratings) [ℹ️](https://polymart.app/tradepolybot)
-
-> PolyBot is a Telegram trading bot that executes orders on the Polymarket exchange through a private wallet and supports copy trading of specific addresses.
-
----
-
-### [PolyTraderPro](https://polytraderpro.com/) | ★★★★☆ **4.1/5** (5 ratings) [ℹ️](https://polyzone.app/polytraderpro/)
-
-> PolyTraderPro is a desktop application that provides direct API access to the Polymarket exchange for trade execution and multi-wallet management across various operating systems.
-
----
-
-### [Poly Helper](https://polyhelper.io/) | ★★★★☆ **4.1/5** (14 ratings) [ℹ️](https://polymart.app/poly-helper)
-
-> Poly Helper is a browser extension that adds price charts, sports scores, and social data to Polymarket event pages to help users monitor prediction markets.
-
----
-
-### [Share xyz](https://about.share.xyz/) | ★★★★☆ **4.1/5** (5 ratings) [ℹ️](https://polyzone.app/sharexyz/)
-
-> Share xyz is a social trading mobile app that lets users copy Polymarket trades and track wallet activity through real time notifications and profit leaderboards.
-
----
-
-### [FlipX](https://getflipx.app/) | ★★★★☆ **4.2/5** (4 ratings) [ℹ️](https://polyzone.app/flipx/)
-
-> FlipX is a non-custodial mobile app that allows users to trade perpetual futures, swap tokens across multiple blockchains, and access prediction markets while maintaining control of their private keys.
-
----
-
-### [Polycool](https://polycoolapp.com) | ★★★★☆ **4.4/5** (42 ratings) [ℹ️](https://polymart.app/polycoolapp)
-
-> Polycool is a mobile trading application that tracks smart wallet activity on Polymarket so users can copy professional traders across 30,000 prediction markets.
-
----
-
-### [Polycule](https://www.polycule.trade/) | ★★★★☆ **4.2/5** (87 ratings) [ℹ️](https://polymart.app/polycule)
-
-> Polycule is a decentralized prediction market launchpad that uses Meteora for liquidity and includes a Telegram bot for automated copy trading on Polymarket.
-
----
-
-### [EVPlus.ai AI Trading Terminal for Polymarket and Hyperliquid](https://app.evplus.ai/) [ℹ️](https://polymart.app/evplus)
-
-> EVPlus.ai is an AI-powered crypto trading terminal that combines automated execution, order flow analysis, whale tracking, and Polymarket bot strategies for experienced traders on…
-
----
-
-### [FrenFlow](https://www.frenflow.com) [ℹ️](https://polymart.app/frenflow)
-
-> FrenFlow is a social trading platform for Polymarket and Kalshi that combines copy trading, verified position sharing, and sub-second execution in one self-custody account with a…
-
----
-
-### [PolyTech Telegram Bot for Polymarket Trading and Copy Trading](https://polytechbot.com/) [ℹ️](https://polymart.app/polytech)
-
-> PolyTech is a Telegram bot for Polymarket that lets you place orders, copy top traders, and track your portfolio without leaving the app.
-
----
-
-### [Polyum](https://polyum.fun/) [ℹ️](https://polymart.app/polyum)
-
-> Polyum is a noncustodial Polymarket copytrading platform that lets users mirror top trader positions in real time, with live analytics across winrate, profit and loss, and average…
-
----
-
-### [MetEngine](https://www.metengine.xyz/) | ★★★★☆ **3.8/5** (14 ratings) [ℹ️](https://polyzone.app/metengine/)
-
-> MetEngine is a suite of trading tools that provides real time analytics and profit trackers for prediction markets through a browser extension.
-
----
-
-### [Chance](https://chance.cc/) | ★★★☆☆ **3.1/5** (147 ratings) [ℹ️](https://polymart.app/chance)
-
-> Chance aggregates prediction market data from Polymarket and Kalshi into a single terminal to help traders find arbitrage opportunities and track whale activity.
-
----
-
-### [Coinpilot](https://coinpilot.com) | ★★★★☆ **4.5/5** (101 ratings) [ℹ️](https://polyzone.app/coinpilot/)
-
-> Coinpilot is a mobile automated trading app that copies trades from top performers on Polymarket and Hyperliquid.
-
----
-
-### [Alpha Whale](https://alphawhale.trade) | ★★★★☆ **3.9/5** (67 ratings) [ℹ️](https://polyzone.app/alpha-whale/)
-
-> Alpha Whale is a trading terminal for Polymarket that has automated features for copy trading and stop loss risk management.
-
----
-
-### [Nexus Tools](https://nexustools.fun) | ★★★★☆ **4.1/5** (36 ratings) [ℹ️](https://polyzone.app/nexus-tools/)
-
-> Nexus Tools is a trading terminal that provides a live Polymarket feed, a whale wallet tracker, and price analysis charts for prediction market users.
-
----
-
-### [Olympus](https://olympusx.app) | ★★★★☆ **4.2/5** (83 ratings) [ℹ️](https://polymart.app/olympus)
-
-> Olympus is a non-custodial trading application that provides automated copy trading and a manual web terminal for the Polymarket prediction market.
-
----
-
-### [Bullpen](https://bullpen.fi) | ★★★★☆ **3.9/5** (41 ratings) [ℹ️](https://polyzone.app/bullpen/)
-
-> Bullpen is a trading terminal where users manage Polymarket positions, Hyperliquid perpetual contracts, and Solana tokens through one interface.
-
----
-
-### [Based](https://app.based.one) | ★★★★☆ **3.8/5** (65 ratings) [ℹ️](https://polyzone.app/based/)
-
-> Based is a mobile and web application that connects to Hyperliquid and Polymarket so traders can manage perpetual futures and prediction markets from a single interface.
-
----
-
-### [Wincy Polymarket Bot](https://t.me/wincy_polymarket_bot) | ★★★★☆ **4.0/5** (134 ratings) [ℹ️](https://polyzone.app/wincy-polymarket-bot/)
-
-> Wincy Polymarket Bot is a Telegram tool that tracks price shifts and volume changes for users who trade in prediction markets.
-
----
-
-### [PolySpy](https://t.me/PolySpy_bot) | ★★★★☆ **3.9/5** (37 ratings) [ℹ️](https://polyzone.app/polyspy/)
-
-> PolySpy is a Telegram bot that sends users instant notifications when Polymarket lists new prediction markets.
-
----
-
-### [Polymarket Bros](http://brosonpm.trade) | ★★★★☆ **4.0/5** (61 ratings) [ℹ️](https://polyzone.app/polymarket-bros/)
-
-> Polymarket Bros is a tracking tool that displays real-time whale trades and whale positions for prediction markets.
-
----
-
-### [Converge](https://converge.market) | ★★★★☆ **4.3/5** (123 ratings) [ℹ️](https://polyzone.app/converge/)
-
-> Converge is a trading terminal and aggregator that identifies price gaps across prediction markets for arbitrage and portfolio management.
-
----
-
-### [Semantic 42](https://42.semanticlayer.io/) | ★★★★★ **4.7/5** (156 ratings) [ℹ️](https://polyzone.app/semantic-42/)
-
-> Semantic 42 is a decentralized application that uses artificial intelligence to provide market signals and data for prediction platforms like Polymarket.
-
----
-
-### [trade.fun](https://trade.fun/) | ★★★★★ **4.7/5** (196 ratings) [ℹ️](https://polyzone.app/trade-fun/)
-
-> Trade.fun is a non-custodial Solana trading terminal that integrates prediction markets and memecoins with automation tools like stop-loss triggers and a wallet scanner.
-
----
-
-### [Sharpe Terminal](https://beta.sharpeterminal.com/) | ★★★★★ **4.6/5** (99 ratings) [ℹ️](https://polyzone.app/sharpe-terminal/)
-
-> Sharpe Terminal is a prediction market platform that has a customizable interface for live orderbook data and research tools.
-
----
-
-### [Polylerts](https://t.me/Polylerts_bot) | ★★★★☆ **4.3/5** (46 ratings) [ℹ️](https://polyzone.app/polylerts/)
-
-> Polylerts is a Telegram bot that sends real-time updates on Polymarket trade volume and price movements.
-
----
-
-### [Polymarket Elon Tracker](https://t.me/polymarketbetbot) | ★★★★☆ **4.5/5** (115 ratings) [ℹ️](https://polyzone.app/polymarket-elon-tracker/)
-
-> The Polymarket Elon Tracker is a Telegram bot that monitors Elon Musk moves and alerts users to related prediction market updates on the platform.
-
----
-
-### [Polylayer](https://polylayer.xyz) | ★★★★☆ **4.5/5** (194 ratings) [ℹ️](https://polyzone.app/polylayer/)
-
-> Polylayer is a set of infrastructure tools for the Polymarket protocol that provides data management and trade execution for professional traders on the Polygon network.
-
----
-
-### [TatorTrader](https://tatortrader.quickintel.io/) | ★★★★☆ **4.2/5** (43 ratings) [ℹ️](https://polyzone.app/tatortrader/)
-
-> TatorTrader is a crypto platform where users trade assets and join prediction markets using plain language commands on Telegram, WhatsApp, or web browsers.
-
----
-
-### [Pigeon](https://pigeon.trade/) | ★★★★☆ **3.8/5** (36 ratings) [ℹ️](https://polyzone.app/pigeon/)
-
-> Pigeon is an agentic tool that writes code to analyze data and executes trades across twenty blockchain networks through chat apps like Telegram.
-
----
-
-### [PolyXBot](https://www.polyxbot.org/) | ★★★★☆ **4.4/5** (125 ratings) [ℹ️](https://polyzone.app/polyxbot/)
-
-> PolyXBot is a Telegram interface for Polymarket that allows users to bridge USDC from Solana to Polygon and place limit orders for event outcomes.
-
----
-
-### [Betly](https://www.betly.trade/) | ★★★★★ **4.8/5** (160 ratings) [ℹ️](https://polyzone.app/betly/)
-
-> Betly is a social prediction platform where users create custom wagers on sports and current events to compete with friends using virtual currency.
-
----
-
-### [KuCoinVentures](https://dune.com/kucoinventures/trading-bots-on-polymarket) | ★★★★★ **4.6/5** (124 ratings) [ℹ️](https://polyzone.app/kucoinventures/)
-
-> KuCoin Ventures provides Dune dashboards that track automated trading volume and bot activity on the Polymarket prediction platform.
-
----
-
-### [Bankr](https://bankr.bot/) | ★★★★☆ **3.7/5** (46 ratings) [ℹ️](https://polyzone.app/bankr/)
-
-> Bankr is a financial infrastructure platform on the Base network that provides autonomous agents with free token launches and a gateway to pay for large language model API calls through swap fees.
-
----
-
-### [Markium](https://markiumpro.com/) | ★★★★☆ **4.4/5** (118 ratings) [ℹ️](https://polyzone.app/markium/)
-
-> Markium is a data analytics platform that offers Polymarket users tools for trend summarization, wallet tracking, and market resolution analysis.
-
----
-
-### [TradeFox](https://thetradefox.com) | ★★★★☆ **4.5/5** (175 ratings) [ℹ️](https://polyzone.app/tradefox/)
-
-> TradeFox is a prediction market aggregator and prime brokerage that allows users to analyze data and execute trades across platforms like Polymarket from a single interface.
-
----
-
-### [Polyswipe](https://polyswipe.io/) | ★★★★☆ **4.0/5** (85 ratings) [ℹ️](https://polyzone.app/polyswipe/)
-
-> Polyswipe is a mobile trading app for Polymarket that has a swipe interface for users to place instant bets on political, sports, and crypto events.
-
----
-
-### [AIXBET](https://www.aixbet.ai/) | ★★★★★ **4.9/5** (136 ratings) [ℹ️](https://polyzone.app/aixbet/)
-
-> AIXBET is a smart money terminal for the Base network that tracks successful Polymarket bettors and uses an autonomous agent to execute automated trades.
-
----
-
-### [Polyburg](https://polyburg.com/) | ★★★★☆ **4.2/5** (63 ratings) [ℹ️](https://polyzone.app/polyburg/)
-
-> Polyburg tracks profitable Polymarket wallets in real time and sends alerts when successful traders open new betting positions.
-
----
-
-### [Datalayer](https://datalayer.xyz/) | ★★★★☆ **4.0/5** (133 ratings) [ℹ️](https://polyzone.app/datalayer/)
-
-> Datalayer is a layer 1 blockchain protocol that provides real-time context for autonomous AI agents to manage decentralized finance assets and perform automated software tasks across multiple chains.
-
----
-
-### [PolyFocus](https://t.me/polyfocusbot) | ★★★★☆ **4.0/5** (95 ratings) [ℹ️](https://polyzone.app/polyfocus/)
-
-> PolyFocus is a Telegram trading bot for Polymarket that executes trades and copies the positions of specific wallet addresses.
-
----
-
-### [Rainmaker](https://rainmaker.fun/) | ★★★★☆ **4.2/5** (105 ratings) [ℹ️](https://polyzone.app/rainmaker/)
-
-> Rainmaker is a software platform where autonomous agents execute trades on sports prediction markets and settle profits into a reward-earning stablecoin linked to a crypto Visa card.
-
----
-
-### [PolyScope Bot](https://polyscope.gitbook.io/) | ★★★★☆ **4.5/5** (85 ratings) [ℹ️](https://polyzone.app/polyscope-bot/)
-
-> PolyScope Bot is an analytics tool for Polymarket that tracks whale transactions and identifies insider trading behavior through real-time data monitoring.
-
----
-
-### [Predictify](None) | ★★★★★ **4.9/5** (98 ratings) [ℹ️](https://polyzone.app/predictify/)
-
-> Predictify is a multi-chain platform where users earn rewards by making predictions on various events through a unified social and decentralized finance interface.
-
----
-
-### [Berry](https://berryinvesting.com/) | ★★★★★ **4.9/5** (90 ratings) [ℹ️](https://polyzone.app/berry/)
-
-> Berry is an investment platform where users buy tokenized stocks and trade in prediction markets starting with one dollar.
-
----
-
-### [Fireplace](https://fireplace.gg/) | ★★★★★ **4.8/5** (176 ratings) [ℹ️](https://polyzone.app/fireplace/)
-
-> Fireplace is a trading terminal for Polymarket that provides professional data feeds and advanced order types for executed bets on decentralized prediction markets.
-
----
-
-### [Predicton](https://predicton-guide.gitbook.io/) | ★★★★☆ **4.5/5** (157 ratings) [ℹ️](https://polyzone.app/predicton/)
-
-> Predicton is a Telegram mini app that lets users trade political and sports prediction markets through a direct integration with Polymarket.
-
----
-
-### [Stand](https://www.stand.trade/) | ★★★★☆ **3.8/5** (57 ratings) [ℹ️](https://polyzone.app/stand/)
-
-> Stand is a trading terminal that provides live data feeds, liquidity metrics, and automated execution for professional participants on prediction markets like Polymarket and Kalshi.
-
----
-
-### [Rocket](https://userocket.app/) | ★★★★★ **4.7/5** (105 ratings) [ℹ️](https://polyzone.app/rocket/)
-
-> Rocket is a redistribution platform where users trade short-term price movements and asset directions through real-time prediction markets.
-
----
-
-### [okbet](https://tryokbet.com/) | ★★★★★ **4.6/5** (115 ratings) [ℹ️](https://polyzone.app/okbet/)
-
-> Okbet is an aggregation tool that combines data from Polymarket and Kalshi into a single interface for automated prediction market trading.
-
----
-
-### [Polymtrade](https://polym.trade/) | ★★★★★ **4.6/5** (119 ratings) [ℹ️](https://polyzone.app/polymtrade/)
-
-> Polymtrade is a mobile trading application that lets users place bets on Polymarket sports, politics, and crypto categories through a specialized smartphone interface.
-
----
-
-### [Betmoar](https://www.betmoar.fun/) | ★★★★☆ **3.8/5** (42 ratings) [ℹ️](https://polymart.app/betmoar)
-
-> Betmoar tracks trader profiles and UMA resolution votes to provide data for Polymarket participants who rely on real-time social media alerts and transaction history.
-
----
-
-### [PolyIntel](https://t.me/PolyIntel_bot) | ★★★★☆ **4.2/5** (121 ratings) [ℹ️](https://polyzone.app/polyintel/)
-
-> PolyIntel is a smart artificial intelligence Telegram bot that helps students, business professionals, and everyday users easily manage data, automate daily tasks, and retrieve instant information directly within their messenger application without needing extra software.
-
----
-
-### [Polymarket JB Bot](https://t.me/polymarket_jb_bot) | ★★★★★ **4.6/5** (116 ratings) [ℹ️](https://polyzone.app/polymarket-jb-bot/)
-
-> Polymarket JB Bot is a fast and easy to use Telegram bot that provides expert market predictions for cryptocurrency, forex, and commodities traders.
+# Awesome Polymarket Tools
+A curated list of awesome Polymarket trading tools, bots, and analytics platforms.
 
 ---
 
@@ -618,6 +205,12 @@ This list is generated directly from our verified database, featuring comprehens
 
 ---
 
+### [Polybacktest API for Polymarket Order Book Backtesting and Data](https://polybacktest.com/) [ℹ️](https://polymart.app/polybacktest)
+
+> Polybacktest provides high precision historical order book data and a REST API for traders to backtest strategies on Polymarket bitcoin and ethereum markets.
+
+---
+
 ### [Polyfactual AI Research Tools and API for Polymarket and Kalshi](https://www.polyfactual.com/) [ℹ️](https://polymart.app/polyfactual)
 
 > Polyfactual is an AI-powered prediction market research platform with tools for Polymarket and Kalshi traders, including a Chrome extension, deep research API, email-based trading…
@@ -646,6 +239,12 @@ This list is generated directly from our verified database, featuring comprehens
 <a name="alerts-notifications"></a>
 
 *Stay ahead of the market with real-time alerts and notification tools for Polymarket and Kalshi. Get price movement alerts, position updates, and market news delivered instantly.*
+
+### [Ember AI Forecasting Tool](https://emberfyi.com) [ℹ️](https://polymart.app/ember)
+
+> Ember runs Claude, Grok, and Gemini daily on live Polymarket questions, locks every forecast with a timestamp, and scores each model publicly with Brier metrics so traders and dev…
+
+---
 
 ### [PolyScalping](https://polyscalping.org) | ★★★★★ **4.9/5** (193 ratings) [ℹ️](https://polyzone.app/polyscalping/)
 
@@ -679,6 +278,18 @@ This list is generated directly from our verified database, featuring comprehens
 ### [Poly Smart Wallet](https://polysmartwallet.com/) | ★★★★★ **4.8/5** (12 ratings) [ℹ️](https://polyzone.app/polysmartwallet/)
 
 > Poly Smart Wallet is a data platform that tracks performance scores and historical win rates for over 8000 Polymarket traders to help users identify wallets for copy trading.
+
+---
+
+### [Predikt DeFi Protocol](https://predikt.gg/) [ℹ️](https://polymart.app/predikt)
+
+> Predikt is a DeFi protocol that aggregates prediction markets from Polymarket, Kalshi, and other venues into one API, giving traders and developers a single point for liquidity, e…
+
+---
+
+### [PredictParity](https://predictparity.com/) [ℹ️](https://polymart.app/predict-parity)
+
+> Predict Parity pulls trading data from multiple prediction market venues into one place, with trader leaderboards, wallet monitoring, and historical accuracy stats to help Polymar…
 
 ---
 
@@ -1048,13 +659,13 @@ This list is generated directly from our verified database, featuring comprehens
 
 ---
 
-### [PolyCop](https://polycopbot.com/) | ★★★★★ **4.8/5** (154 ratings) [ℹ️](https://polymart.app/polycop)
+### [PolyCop](https://polycopbot.com/) | ★★★★★ **4.8/5** (154 ratings) [ℹ️](https://polyzone.app/polycop-analytics/)
 
 > PolyCop is a non-custodial Telegram bot that executes Polymarket trades in under two seconds and automates copy trading for specific wallet addresses.
 
 ---
 
-### [PolyGun](https://polygun.app/) | ★★★★☆ **4.2/5** (59 ratings) [ℹ️](https://polymart.app/polygun)
+### [PolyGun](https://polygun.app/) | ★★★★☆ **4.2/5** (59 ratings) [ℹ️](https://polyzone.app/polygun-analytics/)
 
 > PolyGun is a Telegram bot that executes Polymarket trades on the Polygon blockchain through a chat interface and includes a sniper feature for fast market entry.
 
@@ -1064,6 +675,12 @@ This list is generated directly from our verified database, featuring comprehens
 <a name="arbitrage-edge"></a>
 
 *Find and exploit arbitrage opportunities across Polymarket, Kalshi, and other prediction markets. Tools that scan for mispriced odds and help you lock in guaranteed profit.*
+
+### [Arbitrade Pro](https://arbitradepro.com) [ℹ️](https://polymart.app/arbitrade-pro)
+
+> Arbitrade Pro provides automated trade management tools for Polymarket users to execute strategies with stop losses and risk controls.
+
+---
 
 ### [PolymarketGuide](https://polymarketguide.gitbook.io/) | ★★★★☆ **3.6/5** (27 ratings) [ℹ️](https://polyzone.app/polymarketguide/)
 
@@ -1188,6 +805,12 @@ This list is generated directly from our verified database, featuring comprehens
 
 *A collection of useful Polymarket tools and resources that do not fit neatly into one category. Useful utilities, experiments, and community-built projects worth exploring.*
 
+### [Polytweet](https://polytweet.com/) [ℹ️](https://polymart.app/polytweet)
+
+> Polytweet tracks how much you and other X users have promoted Polymarket, showing personal stats like total post views and tweet count alongside a public leaderboard of top contri…
+
+---
+
 ### [Otomato DeFi Alert Tool](https://otomato.xyz) [ℹ️](https://polymart.app/otomato)
 
 > Otomato monitors onchain positions across Ethereum, Arbitrum, Base, and other chains to send targeted alerts for liquidation risks, yield shifts, and protocol events, with no wall…
@@ -1295,6 +918,419 @@ This list is generated directly from our verified database, featuring comprehens
 ### [PolyFund](https://www.polyfund.so/) | ★★★★☆ **4.5/5** (200 ratings) [ℹ️](https://polyzone.app/polyfund/)
 
 > PolyFund is an on-chain platform where managers trade in prediction markets through vaults that track return on investment and total deposits for individual investors.
+
+---
+
+## Trading Bots & Terminals
+<a name="trading-bots-terminals"></a>
+
+*Automate your prediction market trading with the best bots for Polymarket and Kalshi. Copy-trade top traders, run strategies 24/7, and execute orders faster than any human can.*
+
+### [wagerup](https://wagerup.com/) | ★★★☆☆ **3.0/5** (1 ratings) [ℹ️](https://polymart.app/wagerup)
+
+> WagerUp is a sports prediction market platform that pulls live odds from Kalshi, Polymarket, and other exchanges into one interface, routes each trade to the best price, and charges a flat 1.9% fee only on winning bets.
+
+---
+
+### [Merlin Trade](https://merlin.trade/) | ★★★★☆ **4.0/5** (1 ratings) [ℹ️](https://polymart.app/merlin-trade)
+
+> Merlin Trade is a marketplace and Telegram bot that automatically copies the Polymarket prediction trades of experienced users for retail investors.
+
+---
+
+### [Tread Fi](https://www.tread.fi/) | ★★★★☆ **4.0/5** (1 ratings) [ℹ️](https://polyzone.app/treadfi/)
+
+> Tread Fi is an algorithmic trading terminal that connects multiple exchange accounts to a central interface for low latency crypto execution and portfolio management.
+
+---
+
+### [Prism](https://prismfi.cc/predict) | ★★★★☆ **4.0/5** (1 ratings) [ℹ️](https://polyzone.app/prism/)
+
+> Prism is a decentralized finance application on the MegaETH network that provides tools for token swaps, cross-chain bridges, and liquidity provision through an automated market maker.
+
+---
+
+### [Legend Trade](https://www.legend.trade/) | ★★★★☆ **4.2/5** (4 ratings) [ℹ️](https://polyzone.app/legendtrade/)
+
+> Legend Trade is a social trading platform where users compete in player versus player matches and use ELO rankings to track their financial performance.
+
+---
+
+### [PolyBot](https://tradepolybot.app/) | ★★★★☆ **3.7/5** (41 ratings) [ℹ️](https://polymart.app/tradepolybot)
+
+> PolyBot is a Telegram trading bot that executes orders on the Polymarket exchange through a private wallet and supports copy trading of specific addresses.
+
+---
+
+### [PolyTraderPro](https://polytraderpro.com/) | ★★★★☆ **4.1/5** (5 ratings) [ℹ️](https://polyzone.app/polytraderpro/)
+
+> PolyTraderPro is a desktop application that provides direct API access to the Polymarket exchange for trade execution and multi-wallet management across various operating systems.
+
+---
+
+### [Poly Helper](https://polyhelper.io/) | ★★★★☆ **4.1/5** (14 ratings) [ℹ️](https://polymart.app/poly-helper)
+
+> Poly Helper is a browser extension that adds price charts, sports scores, and social data to Polymarket event pages to help users monitor prediction markets.
+
+---
+
+### [Share xyz](https://about.share.xyz/) | ★★★★☆ **4.1/5** (5 ratings) [ℹ️](https://polyzone.app/sharexyz/)
+
+> Share xyz is a social trading mobile app that lets users copy Polymarket trades and track wallet activity through real time notifications and profit leaderboards.
+
+---
+
+### [FlipX](https://getflipx.app/) | ★★★★☆ **4.2/5** (4 ratings) [ℹ️](https://polyzone.app/flipx/)
+
+> FlipX is a non-custodial mobile app that allows users to trade perpetual futures, swap tokens across multiple blockchains, and access prediction markets while maintaining control of their private keys.
+
+---
+
+### [Polycool](https://polycoolapp.com) | ★★★★☆ **4.4/5** (42 ratings) [ℹ️](https://polymart.app/polycoolapp)
+
+> Polycool is a mobile trading application that tracks smart wallet activity on Polymarket so users can copy professional traders across 30,000 prediction markets.
+
+---
+
+### [Polycule](https://www.polycule.trade/) | ★★★★☆ **4.2/5** (87 ratings) [ℹ️](https://polymart.app/polycule)
+
+> Polycule is a decentralized prediction market launchpad that uses Meteora for liquidity and includes a Telegram bot for automated copy trading on Polymarket.
+
+---
+
+### [PolyCop](https://polycop.ai) | ★★★★★ **4.8/5** (154 ratings) [ℹ️](https://polymart.app/polycop)
+
+> PolyCop is a non-custodial Telegram bot that executes Polymarket trades in under two seconds and automates copy trading for specific wallet addresses.
+
+---
+
+### [PolyGun](https://polygun.xyz/) | ★★★★☆ **4.2/5** (59 ratings) [ℹ️](https://polymart.app/polygun)
+
+> PolyGun is a Telegram bot that executes Polymarket trades on the Polygon blockchain through a chat interface and includes a sniper feature for fast market entry.
+
+---
+
+### [kreo](https://kreopoly.app/) | ★★★★☆ **4.3/5** (141 ratings) [ℹ️](https://polymart.app/kreo)
+
+> Kreo is a non-custodial Telegram bot that monitors Polymarket whale wallets and executes automatic copy trades through a web dashboard.
+
+---
+
+### [Ratio](https://ratio.you/r/TradeNow) | ★★★★☆ **4.1/5** (16 ratings) [ℹ️](https://polymart.app/ratio-you)
+
+> Ratio is a mobile social prediction market app for Android and iOS that uses Polymarket liquidity to let users trade on event outcomes and share positions in a community feed.
+
+---
+
+### [PolyParlay Bot]() [ℹ️](https://polymart.app/polyparlay)
+
+> Traders use the PolyParlay Telegram bot and Chrome extension to combine multiple Polymarket predictions into single parlay positions with multiplied payouts.
+
+---
+
+### [Hunch Prediction Market Aggregator and Trading Terminal](https://app.hunch.trade/@W3SKMHC6) [ℹ️](https://polymart.app/hunch-trade)
+
+> Hunch is a prediction market aggregator that pulls live data from Polymarket, Kalshi, and other venues into one terminal so traders can discover markets, track wallets, compare pr…
+
+---
+
+### [PolyTapBot Telegram Bot for Polymarket Trading and Automation]() [ℹ️](https://polymart.app/polytap-bot)
+
+> PolyTapBot offers automated trading and volume building for Polymarket directly through Telegram to help you manage positions and execute strategies on the go.
+
+---
+
+### [Stand.trade Terminal](https://www.stand.trade/discover) [ℹ️](https://polymart.app/stand-trade)
+
+> Stand.trade is a prediction market terminal that aggregates Polymarket and Kalshi into one dashboard, giving active traders copy trading, whale tracking, and automated order tools…
+
+---
+
+### [EVPlus.ai AI Trading Terminal for Polymarket and Hyperliquid](https://app.evplus.ai/) [ℹ️](https://polymart.app/evplus)
+
+> EVPlus.ai is an AI-powered crypto trading terminal that combines automated execution, order flow analysis, whale tracking, and Polymarket bot strategies for experienced traders on…
+
+---
+
+### [FrenFlow](https://www.frenflow.com) [ℹ️](https://polymart.app/frenflow)
+
+> FrenFlow is a social trading platform for Polymarket and Kalshi that combines copy trading, verified position sharing, and sub-second execution in one self-custody account with a…
+
+---
+
+### [PolyTech Telegram Bot for Polymarket Trading and Copy Trading](https://polytechbot.com/) [ℹ️](https://polymart.app/polytech)
+
+> PolyTech is a Telegram bot for Polymarket that lets you place orders, copy top traders, and track your portfolio without leaving the app.
+
+---
+
+### [Polyum](https://polyum.fun/) [ℹ️](https://polymart.app/polyum)
+
+> Polyum is a noncustodial Polymarket copytrading platform that lets users mirror top trader positions in real time, with live analytics across winrate, profit and loss, and average…
+
+---
+
+### [MetEngine](https://www.metengine.xyz/) | ★★★★☆ **3.8/5** (14 ratings) [ℹ️](https://polyzone.app/metengine/)
+
+> MetEngine is a suite of trading tools that provides real time analytics and profit trackers for prediction markets through a browser extension.
+
+---
+
+### [Chance](https://chance.cc/) | ★★★☆☆ **3.1/5** (147 ratings) [ℹ️](https://polymart.app/chance)
+
+> Chance aggregates prediction market data from Polymarket and Kalshi into a single terminal to help traders find arbitrage opportunities and track whale activity.
+
+---
+
+### [Coinpilot](https://coinpilot.com) | ★★★★☆ **4.5/5** (101 ratings) [ℹ️](https://polyzone.app/coinpilot/)
+
+> Coinpilot is a mobile automated trading app that copies trades from top performers on Polymarket and Hyperliquid.
+
+---
+
+### [Alpha Whale](https://alphawhale.trade) | ★★★★☆ **3.9/5** (67 ratings) [ℹ️](https://polyzone.app/alpha-whale/)
+
+> Alpha Whale is a trading terminal for Polymarket that has automated features for copy trading and stop loss risk management.
+
+---
+
+### [Nexus Tools](https://nexustools.fun) | ★★★★☆ **4.1/5** (36 ratings) [ℹ️](https://polyzone.app/nexus-tools/)
+
+> Nexus Tools is a trading terminal that provides a live Polymarket feed, a whale wallet tracker, and price analysis charts for prediction market users.
+
+---
+
+### [Olympus](https://olympusx.app) | ★★★★☆ **4.2/5** (83 ratings) [ℹ️](https://polymart.app/olympus)
+
+> Olympus is a non-custodial trading application that provides automated copy trading and a manual web terminal for the Polymarket prediction market.
+
+---
+
+### [Bullpen](https://bullpen.fi) | ★★★★☆ **3.9/5** (41 ratings) [ℹ️](https://polyzone.app/bullpen/)
+
+> Bullpen is a trading terminal where users manage Polymarket positions, Hyperliquid perpetual contracts, and Solana tokens through one interface.
+
+---
+
+### [Based](https://app.based.one) | ★★★★☆ **3.8/5** (65 ratings) [ℹ️](https://polyzone.app/based/)
+
+> Based is a mobile and web application that connects to Hyperliquid and Polymarket so traders can manage perpetual futures and prediction markets from a single interface.
+
+---
+
+### [Wincy Polymarket Bot](https://t.me/wincy_polymarket_bot) | ★★★★☆ **4.0/5** (134 ratings) [ℹ️](https://polyzone.app/wincy-polymarket-bot/)
+
+> Wincy Polymarket Bot is a Telegram tool that tracks price shifts and volume changes for users who trade in prediction markets.
+
+---
+
+### [PolySpy](https://t.me/PolySpy_bot) | ★★★★☆ **3.9/5** (37 ratings) [ℹ️](https://polyzone.app/polyspy/)
+
+> PolySpy is a Telegram bot that sends users instant notifications when Polymarket lists new prediction markets.
+
+---
+
+### [Polymarket Bros](http://brosonpm.trade) | ★★★★☆ **4.0/5** (61 ratings) [ℹ️](https://polyzone.app/polymarket-bros/)
+
+> Polymarket Bros is a tracking tool that displays real-time whale trades and whale positions for prediction markets.
+
+---
+
+### [Converge](https://converge.market) | ★★★★☆ **4.3/5** (123 ratings) [ℹ️](https://polyzone.app/converge/)
+
+> Converge is a trading terminal and aggregator that identifies price gaps across prediction markets for arbitrage and portfolio management.
+
+---
+
+### [Semantic 42](https://42.semanticlayer.io/) | ★★★★★ **4.7/5** (156 ratings) [ℹ️](https://polyzone.app/semantic-42/)
+
+> Semantic 42 is a decentralized application that uses artificial intelligence to provide market signals and data for prediction platforms like Polymarket.
+
+---
+
+### [trade.fun](https://trade.fun/) | ★★★★★ **4.7/5** (196 ratings) [ℹ️](https://polyzone.app/trade-fun/)
+
+> Trade.fun is a non-custodial Solana trading terminal that integrates prediction markets and memecoins with automation tools like stop-loss triggers and a wallet scanner.
+
+---
+
+### [Sharpe Terminal](https://beta.sharpeterminal.com/) | ★★★★★ **4.6/5** (99 ratings) [ℹ️](https://polyzone.app/sharpe-terminal/)
+
+> Sharpe Terminal is a prediction market platform that has a customizable interface for live orderbook data and research tools.
+
+---
+
+### [Polylerts](https://t.me/Polylerts_bot) | ★★★★☆ **4.3/5** (46 ratings) [ℹ️](https://polyzone.app/polylerts/)
+
+> Polylerts is a Telegram bot that sends real-time updates on Polymarket trade volume and price movements.
+
+---
+
+### [Polymarket Elon Tracker](https://t.me/polymarketbetbot) | ★★★★☆ **4.5/5** (115 ratings) [ℹ️](https://polyzone.app/polymarket-elon-tracker/)
+
+> The Polymarket Elon Tracker is a Telegram bot that monitors Elon Musk moves and alerts users to related prediction market updates on the platform.
+
+---
+
+### [Polylayer](https://polylayer.xyz) | ★★★★☆ **4.5/5** (194 ratings) [ℹ️](https://polyzone.app/polylayer/)
+
+> Polylayer is a set of infrastructure tools for the Polymarket protocol that provides data management and trade execution for professional traders on the Polygon network.
+
+---
+
+### [TatorTrader](https://tatortrader.quickintel.io/) | ★★★★☆ **4.2/5** (43 ratings) [ℹ️](https://polyzone.app/tatortrader/)
+
+> TatorTrader is a crypto platform where users trade assets and join prediction markets using plain language commands on Telegram, WhatsApp, or web browsers.
+
+---
+
+### [Pigeon](https://pigeon.trade/) | ★★★★☆ **3.8/5** (36 ratings) [ℹ️](https://polyzone.app/pigeon/)
+
+> Pigeon is an agentic tool that writes code to analyze data and executes trades across twenty blockchain networks through chat apps like Telegram.
+
+---
+
+### [PolyXBot](https://www.polyxbot.org/) | ★★★★☆ **4.4/5** (125 ratings) [ℹ️](https://polyzone.app/polyxbot/)
+
+> PolyXBot is a Telegram interface for Polymarket that allows users to bridge USDC from Solana to Polygon and place limit orders for event outcomes.
+
+---
+
+### [Betly](https://www.betly.trade/) | ★★★★★ **4.8/5** (160 ratings) [ℹ️](https://polyzone.app/betly/)
+
+> Betly is a social prediction platform where users create custom wagers on sports and current events to compete with friends using virtual currency.
+
+---
+
+### [KuCoinVentures](https://dune.com/kucoinventures/trading-bots-on-polymarket) | ★★★★★ **4.6/5** (124 ratings) [ℹ️](https://polyzone.app/kucoinventures/)
+
+> KuCoin Ventures provides Dune dashboards that track automated trading volume and bot activity on the Polymarket prediction platform.
+
+---
+
+### [Bankr](https://bankr.bot/) | ★★★★☆ **3.7/5** (46 ratings) [ℹ️](https://polyzone.app/bankr/)
+
+> Bankr is a financial infrastructure platform on the Base network that provides autonomous agents with free token launches and a gateway to pay for large language model API calls through swap fees.
+
+---
+
+### [Markium](https://markiumpro.com/) | ★★★★☆ **4.4/5** (118 ratings) [ℹ️](https://polyzone.app/markium/)
+
+> Markium is a data analytics platform that offers Polymarket users tools for trend summarization, wallet tracking, and market resolution analysis.
+
+---
+
+### [TradeFox](https://thetradefox.com) | ★★★★☆ **4.5/5** (175 ratings) [ℹ️](https://polyzone.app/tradefox/)
+
+> TradeFox is a prediction market aggregator and prime brokerage that allows users to analyze data and execute trades across platforms like Polymarket from a single interface.
+
+---
+
+### [Polyswipe](https://polyswipe.io/) | ★★★★☆ **4.0/5** (85 ratings) [ℹ️](https://polyzone.app/polyswipe/)
+
+> Polyswipe is a mobile trading app for Polymarket that has a swipe interface for users to place instant bets on political, sports, and crypto events.
+
+---
+
+### [AIXBET](https://www.aixbet.ai/) | ★★★★★ **4.9/5** (136 ratings) [ℹ️](https://polyzone.app/aixbet/)
+
+> AIXBET is a smart money terminal for the Base network that tracks successful Polymarket bettors and uses an autonomous agent to execute automated trades.
+
+---
+
+### [Polyburg](https://polyburg.com/) | ★★★★☆ **4.2/5** (63 ratings) [ℹ️](https://polyzone.app/polyburg/)
+
+> Polyburg tracks profitable Polymarket wallets in real time and sends alerts when successful traders open new betting positions.
+
+---
+
+### [Datalayer](https://datalayer.xyz/) | ★★★★☆ **4.0/5** (133 ratings) [ℹ️](https://polyzone.app/datalayer/)
+
+> Datalayer is a layer 1 blockchain protocol that provides real-time context for autonomous AI agents to manage decentralized finance assets and perform automated software tasks across multiple chains.
+
+---
+
+### [PolyFocus](https://t.me/polyfocusbot) | ★★★★☆ **4.0/5** (95 ratings) [ℹ️](https://polyzone.app/polyfocus/)
+
+> PolyFocus is a Telegram trading bot for Polymarket that executes trades and copies the positions of specific wallet addresses.
+
+---
+
+### [Rainmaker](https://rainmaker.fun/) | ★★★★☆ **4.2/5** (105 ratings) [ℹ️](https://polyzone.app/rainmaker/)
+
+> Rainmaker is a software platform where autonomous agents execute trades on sports prediction markets and settle profits into a reward-earning stablecoin linked to a crypto Visa card.
+
+---
+
+### [PolyScope Bot](https://polyscope.gitbook.io/) | ★★★★☆ **4.5/5** (85 ratings) [ℹ️](https://polyzone.app/polyscope-bot/)
+
+> PolyScope Bot is an analytics tool for Polymarket that tracks whale transactions and identifies insider trading behavior through real-time data monitoring.
+
+---
+
+### [Predictify](None) | ★★★★★ **4.9/5** (98 ratings) [ℹ️](https://polyzone.app/predictify/)
+
+> Predictify is a multi-chain platform where users earn rewards by making predictions on various events through a unified social and decentralized finance interface.
+
+---
+
+### [Berry](https://berryinvesting.com/) | ★★★★★ **4.9/5** (90 ratings) [ℹ️](https://polyzone.app/berry/)
+
+> Berry is an investment platform where users buy tokenized stocks and trade in prediction markets starting with one dollar.
+
+---
+
+### [Fireplace](https://fireplace.gg/) | ★★★★★ **4.8/5** (176 ratings) [ℹ️](https://polyzone.app/fireplace/)
+
+> Fireplace is a trading terminal for Polymarket that provides professional data feeds and advanced order types for executed bets on decentralized prediction markets.
+
+---
+
+### [Predicton](https://predicton-guide.gitbook.io/) | ★★★★☆ **4.5/5** (157 ratings) [ℹ️](https://polyzone.app/predicton/)
+
+> Predicton is a Telegram mini app that lets users trade political and sports prediction markets through a direct integration with Polymarket.
+
+---
+
+### [Stand](https://www.stand.trade/) | ★★★★☆ **3.8/5** (57 ratings) [ℹ️](https://polyzone.app/stand/)
+
+> Stand is a trading terminal that provides live data feeds, liquidity metrics, and automated execution for professional participants on prediction markets like Polymarket and Kalshi.
+
+---
+
+### [Rocket](https://userocket.app/) | ★★★★★ **4.7/5** (105 ratings) [ℹ️](https://polyzone.app/rocket/)
+
+> Rocket is a redistribution platform where users trade short-term price movements and asset directions through real-time prediction markets.
+
+---
+
+### [okbet](https://tryokbet.com/) | ★★★★★ **4.6/5** (115 ratings) [ℹ️](https://polyzone.app/okbet/)
+
+> Okbet is an aggregation tool that combines data from Polymarket and Kalshi into a single interface for automated prediction market trading.
+
+---
+
+### [Polymtrade](https://polym.trade/) | ★★★★★ **4.6/5** (119 ratings) [ℹ️](https://polyzone.app/polymtrade/)
+
+> Polymtrade is a mobile trading application that lets users place bets on Polymarket sports, politics, and crypto categories through a specialized smartphone interface.
+
+---
+
+### [Betmoar](https://www.betmoar.fun/) | ★★★★☆ **3.8/5** (42 ratings) [ℹ️](https://polymart.app/betmoar)
+
+> Betmoar tracks trader profiles and UMA resolution votes to provide data for Polymarket participants who rely on real-time social media alerts and transaction history.
+
+---
+
+### [PolyIntel](https://t.me/PolyIntel_bot) | ★★★★☆ **4.2/5** (121 ratings) [ℹ️](https://polyzone.app/polyintel/)
+
+> PolyIntel is a smart artificial intelligence Telegram bot that helps students, business professionals, and everyday users easily manage data, automate daily tasks, and retrieve instant information directly within their messenger application without needing extra software.
+
+---
+
+### [Polymarket JB Bot](https://t.me/polymarket_jb_bot) | ★★★★★ **4.6/5** (116 ratings) [ℹ️](https://polyzone.app/polymarket-jb-bot/)
+
+> Polymarket JB Bot is a fast and easy to use Telegram bot that provides expert market predictions for cryptocurrency, forex, and commodities traders.
 
 ---
 
