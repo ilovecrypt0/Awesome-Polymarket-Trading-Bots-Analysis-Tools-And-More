@@ -281,6 +281,30 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [HuskyWeatherBot: Free Telegram Weather Tool for Polymarket Traders](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/huskyweatherbot)
+
+> HuskyWeatherBot is a free Telegram bot for Polymarket weather market traders that combines live METAR decoding, multi-model temperature forecasts, historical station profiles, and…
+
+---
+
+### [Poly Prediction AI Polymarket Analysis Tool for Live Markets](https://instagram.com/PolyPrediction.App) [ℹ️](https://polymart.app/poly-prediction)
+
+> Poly Prediction pulls live Polymarket pricing data together with news context, participant incentives, and situational analysis so traders can understand why probabilities sit whe…
+
+---
+
+### [Struct Polymarket Data API: Real-Time Indexing and PnL Analytics](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/struct)
+
+> Struct is a Polymarket data API that gives developers and traders access to unified endpoints, real-time WebSocket streams, webhooks, and block-level PnL accounting across the ful…
+
+---
+
+### [ElonTracker: Polymarket Tweet Count Markets Dashboard and Trading Tool](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/elontracker)
+
+> ElonTracker is a Polymarket dashboard that tracks live tweet counts, AI forecasts, and velocity data for Elon Musk and other public figures, giving traders a single place to monit…
+
+---
+
 ### [Predikt DeFi Protocol](https://predikt.gg/) [ℹ️](https://polymart.app/predikt)
 
 > Predikt is a DeFi protocol that aggregates prediction markets from Polymarket, Kalshi, and other venues into one API, giving traders and developers a single point for liquidity, e…
@@ -805,6 +829,12 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 *A collection of useful Polymarket tools and resources that do not fit neatly into one category. Useful utilities, experiments, and community-built projects worth exploring.*
 
+### [Positions Finance: DeFi Liquidity Protocol for Polymarket Shares](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/positions-finance)
+
+> Positions Finance lets Polymarket traders borrow pUSD against their active yes or no shares as collateral, so capital stays productive while the original bet runs to resolution.
+
+---
+
 ### [Polytweet](https://polytweet.com/) [ℹ️](https://polymart.app/polytweet)
 
 > Polytweet tracks how much you and other X users have promoted Polymarket, showing personal stats like total post views and tweet count alongside a public leaderboard of top contri…
@@ -902,6 +932,18 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 <a name="satire-fun"></a>
 
 *Not everything has to be serious. Explore fun, satirical, and meme-worthy tools inspired by Polymarket and prediction markets. Because sometimes trading should make you laugh too.*
+
+### [Funding Predicts Prop Firm For Polymarket Prediction Market Traders](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/funding-predicts)
+
+> FundingPredicts is a prop trading firm for Polymarket that lets traders pass a single-phase evaluation and access up to $150,000 in allocated capital, keeping up to 90% of profits…
+
+---
+
+### [PropMarket Polymarket Prop Firm: Get Funded to Trade Predictions](https://instagram.com/propmrkt) [ℹ️](https://polymart.app/propmarket)
+
+> PropMarket is a prop trading firm for Polymarket where traders pay a one-time evaluation fee, prove their edge on a simulated account, and receive funded capital to trade predicti…
+
+---
 
 ### [PolyFakeIt](https://www.polyfakeit.com/) | ★★★★★ **4.6/5** (91 ratings) [ℹ️](https://polyzone.app/polyfakeit/)
 
@@ -1019,6 +1061,54 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 ### [Ratio](https://ratio.you/r/TradeNow) | ★★★★☆ **4.1/5** (16 ratings) [ℹ️](https://polymart.app/ratio-you)
 
 > Ratio is a mobile social prediction market app for Android and iOS that uses Polymarket liquidity to let users trade on event outcomes and share positions in a community feed.
+
+---
+
+### [OKBet Multi-Platform Prediction Market Trading Bot and Terminal](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/okbet-trade)
+
+> OKBet is a unified trading terminal and Telegram bot that connects Polymarket, Kalshi, Limitless, and Opinion into one account, with copy trading, whale alerts, AI signals, and fe…
+
+---
+
+### [Axiom Trade Polymark Prediction Markets Terminal](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/axiom-trade-polymarket-terminal)
+
+> Axiom Exchange now lets Solana traders take positions on real-world events directly inside the same terminal they use for memecoins, perpetuals, and yield, with cash back rewards…
+
+---
+
+### [Bravado Trade: Polymarket Trading Terminal for Pro Traders](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/bravado-trade)
+
+> Bravado Trade is a professional trading terminal for Polymarket that combines real-time order flow, whale tracking, copy trading, LP automations, and advanced order types in a sin…
+
+---
+
+### [BullpenFi: Solana, Hyperliquid &amp; Polymarket Trading Terminal](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/bullpenfi)
+
+> BullpenFi is a non-custodial trading terminal that connects Solana tokens, Hyperliquid perpetual futures, and Polymarket prediction markets in one interface, with optimized order…
+
+---
+
+### [Traderline Desktop App For Polymarket And Betfair Trading](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/traderline)
+
+> Traderline is a free desktop trading application for Polymarket and Betfair that gives serious traders a vertical ladder interface, one-click order execution, and risk controls th…
+
+---
+
+### [Onsight Social Copy Trading and Alerts for Polymarket on Base](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/onsight-trade)
+
+> Onsight is a social trading platform for Polymarket where users share predictions, copy top traders automatically, and earn fees when others mirror their positions on onsight.trad…
+
+---
+
+### [Jupiter Predict Solana Prediction Market With USDC Binary Contracts](https://pbs.twimg.com/media/HL36WaLasAA4BwW.jpg?name=orig) [ℹ️](https://polymart.app/jupiter)
+
+> Jupiter Predict is a Solana-based prediction market where traders buy and sell binary contracts on sports, crypto, and world events, with positions settled in USDC and backed by a…
+
+---
+
+### [Kairos Trading Terminal for Polymarket and Kalshi Prediction Markets](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/kairos-trade)
+
+> Kairos is a prediction market trading terminal that aggregates live data and order execution from Polymarket and Kalshi into one low-latency interface, backed by a16z crypto and b…
 
 ---
 
