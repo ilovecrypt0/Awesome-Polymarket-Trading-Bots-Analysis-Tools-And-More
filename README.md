@@ -205,6 +205,18 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [PolyNode Realtime Polymarket Data API and WebSocket Feeds](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/polynode)
+
+> PolyNode streams preconfirmation Polymarket data feeds through WebSocket and REST APIs, delivering decoded fills, settlements, and price updates several seconds before on-chain co…
+
+---
+
+### [PMXT Unified API And SDK For Polymarket And Kalshi](https://github.com/pmxt-dev/pmxt) [ℹ️](https://polymart.app/pmxt)
+
+> PMXT is a free open source unified API and SDK that lets developers trade, build bots, and pull historical data across Polymarket, Kalshi, and other prediction markets through a s…
+
+---
+
 ### [Polybacktest API for Polymarket Order Book Backtesting and Data](https://polybacktest.com/) [ℹ️](https://polymart.app/polybacktest)
 
 > Polybacktest provides high precision historical order book data and a REST API for traders to backtest strategies on Polymarket bitcoin and ethereum markets.
@@ -700,6 +712,18 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 *Find and exploit arbitrage opportunities across Polymarket, Kalshi, and other prediction markets. Tools that scan for mispriced odds and help you lock in guaranteed profit.*
 
+### [Sharkbetting Oddsmatcher: Live Odds, SharkBetX Trading](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/sharkbetx-sharkbetting)
+
+> Sharkbetting.com scans odds from over twenty bookmakers against SharkBetX and Betfair liquidity, giving matched and value bettors a free live oddsmatcher, calculators, and Polygon…
+
+---
+
+### [SpreadCore Polymarket Arbitrage And Bookmaker Hedging Tool](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/spreadcore)
+
+> SpreadCore scans live Polymarket and bookmaker odds to find arbitrage opportunities, calculates exact stakes for both sides, and lets you lock profit from price gaps.
+
+---
+
 ### [Arbitrade Pro](https://arbitradepro.com) [ℹ️](https://polymart.app/arbitrade-pro)
 
 > Arbitrade Pro provides automated trade management tools for Polymarket users to execute strategies with stop losses and risk controls.
@@ -922,6 +946,54 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [ADI Predictstreet: Official FIFA World Cup 2026 Prediction Market](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/adi-predictstreet)
+
+> ADI Predictstreet is the official FIFA World Cup 2026 prediction market, letting traders buy and sell outcome tokens on match results, tournament winners, and Golden Boot picks wi…
+
+---
+
+### [Polymarket: Trade Real World Events for Real Returns](https://www.instagram.com/polymarket) [ℹ️](https://polymart.app/polymarket)
+
+> Learn how Polymarket lets you trade real world events, earn liquidity rewards, and turn market knowledge into profit with this full guide to features, safety, and getting started…
+
+---
+
+### [Opinion.trade: AI Oracle Prediction Market on BNB Chain](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/opinion-trade)
+
+> Opinion.trade is a BNB Chain prediction market where traders bet on sports, politics, and economic events using an AI oracle, pooled liquidity, and low fees, offering a direct alt…
+
+---
+
+### [Predict.fun: Earn Yield on BNB Chain Prediction Markets](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/predict-fun)
+
+> Predict.fun is a BNB Chain prediction market that lets you trade on politics, sports, and crypto outcomes while your collateral earns Venus Protocol yield, backed by self custody…
+
+---
+
+### [Hyperliquid Prediction Markets: HIP-4 Outcome Trading](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/hyperliquid-prediction-market)
+
+> Hyperliquid Prediction Markets bring HIP-4 outcome trading to Polymarket users, with fully collateralized binary contracts, order book pricing, and no liquidation risk on sports,…
+
+---
+
+### [Perp.com Leveraged Perpetual Futures For Prediction Market Trading](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/perp-com)
+
+> Perp.com brings leveraged perpetual futures to prediction markets so traders can take 1x to 5x positions on real world event probabilities with no expiry dates.
+
+---
+
+### [ParlayIt: Native Parlay Prediction Market for Polymarket Traders](https://pbs.twimg.com/media/HNx_PwcWcAAFTDM.jpg?name=orig) [ℹ️](https://polymart.app/parlayit)
+
+> ParlayIt is an on chain prediction market that lets traders build native parlays across sports, politics, crypto, and weather markets, with zero fee single trades and fast settlem…
+
+---
+
+### [Kalshi: Prediction Market Trading, Features &amp; Safety](https://instagram.com/kalshi/) [ℹ️](https://polymart.app/kalshi)
+
+> Kalshi is a CFTC-regulated prediction market where traders buy yes or no contracts on politics, sports, and economic events, with crypto deposits and pro trading tools built in.
+
+---
+
 ### [OPINION](https://app.opinion.trade?code=pexI8W) | ★★★★☆ **4.1/5** (14 ratings) [ℹ️](https://polyzone.app/opinion/)
 
 > OPINION is a decentralized platform where traders use web3 wallets to bet on future event outcomes and track profits with integrated data analytics.
@@ -1061,6 +1133,72 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 ### [Ratio](https://ratio.you/r/TradeNow) | ★★★★☆ **4.1/5** (16 ratings) [ℹ️](https://polymart.app/ratio-you)
 
 > Ratio is a mobile social prediction market app for Android and iOS that uses Polymarket liquidity to let users trade on event outcomes and share positions in a community feed.
+
+---
+
+### [Bagel win App: Mobile Prediction Market Trading for Sports &amp; Politics](https://apps.apple.com/us/app/bagel-predict-on-easy-mode/id6760811152?ct=GM_WEBSITE&amp;pt=125280832) [ℹ️](https://polymart.app/bagel)
+
+> Bagel is a mobile app for Polymarket prediction markets that filters thousands of events into a personalized feed, adds live updates, chat, and gamified challenges, and lets you t…
+
+---
+
+### [Preddy Trade: Low Fee Polymarket Trading Interface for Sports](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/preddy-trade)
+
+> Preddy Trade is a low-fee prediction market interface covering politics, sports, esports, and crypto events, built for fast execution and better pricing on trades like those on Po…
+
+---
+
+### [Beep AI Agent for Polymarket Prediction Market Trading on Sui](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/just-beep)
+
+> Beep is a non-custodial agent protocol on Sui that lets users automate prediction market trading on Polymarket through constraint-driven agents, with funds staying in personal wal…
+
+---
+
+### [PolyQuant Telegram Bot: Auto Trade Candlestick Rules on Polymarket](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/polyquant)
+
+> PolyQuant is a noncustodial Telegram bot that turns your candlestick pattern rules into automatic trades on Polymarket BTC up or down markets, monitoring live candle closes across…
+
+---
+
+### [Sides Trade Bot Telegram Trading and AI Agent for Polymarket](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/sides-trade)
+
+> Sides.trade lets Polymarket traders search markets, place orders, manage positions, and build strategies with an AI agent directly inside Telegram, with cross chain deposits and c…
+
+---
+
+### [Share App: Polymarket Mobile Trading, Copy Trading &amp; Alerts](https://pbs.twimg.com/media/HN6tUP3WkAE2VJa.jpg?name=orig) [ℹ️](https://polymart.app/share)
+
+> Share is Polymarket&#039;s official mobile trading app, offering real-time charts, portfolio tracking, and copy trading so you can trade prediction markets straight from your phone.
+
+---
+
+### [Outcome xyz: Zero Fee Prediction Markets on Hyperliquid L1](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/outcome-xyz)
+
+> Outcome.xyz brings zero fee, order book prediction markets to Hyperliquid, letting traders bet on crypto, sports, and the World Cup with shared margin, tight spreads, and USDH col…
+
+---
+
+### [Nomos Trading Terminal: Charts, Alerts &amp; Data for Polymarket](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/nomos-trade)
+
+> Nomos is a prediction market trading terminal that combines live charts, wallet alerts, a real-world event globe, and a Polymarket leaderboard so traders can spot price moves and…
+
+---
+
+### [Insiders bot: Polymarket Sniper Bot for Copy Trading and Signals](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/insiders-bot)
+
+> Insiders.bot gives Polymarket traders fast execution, smart money wallet tracking, algorithmic signals, and automated copy trading in one platform built for speed and information…
+
+---
+
+### [YeNo: Solana Prediction Market for Sports, Crypto and News](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/yeno)
+
+> YeNo is a Solana based prediction market where traders buy yes or no contracts on sports, crypto prices, and world events, with fast wallet connected trading and on chain settleme…
+
+---
+
+### [Tailgate App: Social Sports Prediction Copy Trading on Polymarket](https://www.instagram.com/polymartapp/) [ℹ️](https://polymart.app/tailgate)
+
+> Tailgate turns Polymarket and Kalshi sports predictions into a social app where you can follow sharp handicappers, tail their picks in one tap, and get paid when others copy yours.
 
 ---
 
