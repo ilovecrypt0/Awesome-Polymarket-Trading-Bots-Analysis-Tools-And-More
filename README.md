@@ -1468,7 +1468,7 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ### [Polyburg](https://polyburg.com/) | ★★★★☆ **4.2/5** (63 ratings) [ℹ️](https://polyzone.app/polyburg/)
 
-> Polyburg tracks profitable Polymarket wallets in real time and sends alerts when successful traders open new betting positions.
+> Polyburg is a Telegram mini-app for automatic copy trading on Polymarket. It curates the most consistent traders from on-chain history, mirrors them into your own wallet via Copy Rules, or invests one deposit in a managed Preset (Steady · Smart · Sharp) — with scalper-cycle filtering and protective sells built in. Polymarket Builders-Program member.
 
 ---
 
