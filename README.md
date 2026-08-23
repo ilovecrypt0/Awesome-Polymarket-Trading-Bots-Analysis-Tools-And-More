@@ -247,6 +247,12 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [Live Tennis API Real-Time Match-State Feed for Polymarket and Kalshi Tennis Markets](https://livetennisapi.com/)
+
+> Live Tennis API is a real-time tennis data feed delivering live match state — score, current server, a three-valued break-point flag, and retirement, walkover, and completion status across ATP, WTA, Challenger, and ITF — so traders can enrich Polymarket and Kalshi tennis event markets with in-match signals, with a free no-card tier for live scores, players, and fixtures.
+
+---
+
 ## Alerts & Notifications
 <a name="alerts-notifications"></a>
 
