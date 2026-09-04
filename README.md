@@ -194,6 +194,12 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [OpenThomas](https://github.com/PredictionMarketTrader/openthomas)
+
+> OpenThomas is an autonomous AI agent that trades weather markets on Kalshi and Polymarket. It maps every market to its exact NWS station, builds a per-strike probability from a 7-model forecast consensus, learns each station's systematic bias from months of leak-free hindcasts, lets an LLM adjust within hard bounds, and sizes every position with Brier-skill-gated Kelly.
+
+---
+
 ## API & Data
 <a name="api-data"></a>
 
