@@ -801,6 +801,12 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [Dimes Multiply](https://dimes.fi/multiply)
+
+> Dimes Multiply is an embedded leverage layer that apps, wallets, and terminals integrate through a REST API to offer their own users 2x to 10x on Polymarket positions, with the credit provisioning, hedging, and settlement handled by Dimes instead of the integrator.
+
+---
+
 ## News & Media
 <a name="news-media"></a>
 
