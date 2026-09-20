@@ -1070,7 +1070,7 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
-### [PolyBot](https://tradepolybot.app/) | ★★★★☆ **3.7/5** (41 ratings) [ℹ️](https://polymart.app/tradepolybot)
+### [PolyBot](https://polybot.trading/) | ★★★★☆ **3.7/5** (41 ratings) [ℹ️](https://polymart.app/tradepolybot)
 
 > PolyBot is a Telegram trading bot that executes orders on the Polymarket exchange through a private wallet and supports copy trading of specific addresses.
 
