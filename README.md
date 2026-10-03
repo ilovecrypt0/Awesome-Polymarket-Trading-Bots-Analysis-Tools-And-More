@@ -707,6 +707,12 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [PolyTracer](https://polytracer.app/)
+
+> PolyTracer is a Polymarket wallet analyzer that replays every wallet fill by fill from raw Polygon chain data, so the win rate, ROI and P&L it shows are recomputed rather than read off the site. It ranks 2.6M indexed wallets by a 0 to 100 Copy Score, breaks win rates down per category, and streams a live whale feed. Free to browse, no account needed.
+
+---
+
 ## Arbitrage & Edge
 <a name="arbitrage-edge"></a>
 
