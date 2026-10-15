@@ -709,7 +709,7 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ### [Glypse](https://glypse.ai/)
 
-> Market screener and event research for Polymarket and Kalshi, with briefings, social sentiment analysis, and a custom-pair arbitrage scanner. Free to use without an account.
+> Market screener and event research for prediction markets, with briefings, social sentiment analysis, and a custom-pair arbitrage scanner. Free to use without an account.
 
 ---
 
