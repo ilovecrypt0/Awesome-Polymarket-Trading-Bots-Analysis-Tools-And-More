@@ -247,6 +247,12 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [Convex Lake](https://convexlake.com)
+
+> Convex Lake is a hosted API for batch and real-time historical orderbook, trade, and candle data across Polymarket, Kalshi, Predict.fun, and Limitless, paired under one schema with Deribit and Binance options data — built for quant research that spans both prediction markets and crypto derivatives.
+
+---
+
 ## Alerts & Notifications
 <a name="alerts-notifications"></a>
 
