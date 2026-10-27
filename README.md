@@ -1562,6 +1562,12 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [Melbo](https://melbo.io/)
+
+> Melbo is a prediction market app. Trade Yes or No shares on elections, sports, crypto and the economy; a share's price shows the market's probability. What Melbo adds for the user: sign-in with email, Google or Telegram and a built-in non-custodial wallet (no extension, no seed phrase); network gas paid by Melbo; the interface in 18 languages, including Russian, Turkish, Arabic, Hindi, Urdu and Indonesian; 24/7 live chat support; no fee on limit orders, deposits and withdrawals.
+
+---
+
 ## Whale & Wallet Tracking
 <a name="whale-wallet-tracking"></a>
 
