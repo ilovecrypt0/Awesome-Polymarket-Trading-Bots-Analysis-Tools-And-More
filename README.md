@@ -1274,9 +1274,9 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
-### [EVPlus.ai AI Trading Terminal for Polymarket and Hyperliquid](https://app.evplus.ai/) [ℹ️](https://polymart.app/evplus)
+### [EVPLUS Hosted Polymarket Trading Bot](https://www.evplus.ai/) [ℹ️](https://polymart.app/evplus)
 
-> EVPlus.ai is an AI-powered crypto trading terminal that combines automated execution, order flow analysis, whale tracking, and Polymarket bot strategies for experienced traders on…
+> EVPLUS is a hosted trading bot for Polymarket that runs five strategies 24/7 from your own Polymarket wallet, with a trade-only key that cannot withdraw. Results for the last 30 days, after fees and losses included, are public on its Track Record.
 
 ---
 
