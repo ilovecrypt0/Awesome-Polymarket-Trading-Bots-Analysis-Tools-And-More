@@ -2,6 +2,7 @@
 A curated list of awesome Polymarket trading tools, bots, and analytics platforms.
 
 ---
+- [CleanLedger](https://muskgogogo131-collab.github.io/cleanledger/) ([GitHub](https://github.com/muskgogogo131-collab/cleanledger)) - Open-core client-side & MIT CLI tax/PnL auditor built on Polymarket Data API v2; pairs FIFO cost basis across CTF trades, redemptions, splits, and merges to fix Koinly 0-basis income bugs and Oct-29 double-taxation.
 
 ## AI Trading
 <a name="ai-trading"></a>
